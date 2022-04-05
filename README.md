@@ -1,4 +1,4 @@
-# PushStart
+# PushStart Github Repository Guide
 
 ### Github setup
 #### Cloning this repo
@@ -17,7 +17,6 @@ In order to save and push your commits:
 ```
 $ git add .  // add all changes (you can select the changes you want to make as well)
 $ git commit -m 'some commit message'
-
 ```
 #### (if local and remote branch are connected) Push changes:
 ``` $ git push ```
