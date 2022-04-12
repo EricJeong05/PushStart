@@ -1,12 +1,12 @@
 # PushStart 
 ## To-do
-- Use a potentiometer to control the speed of the motor & figure out optimal speed of motor
+~~- Use a potentiometer to control the speed of the motor & figure out optimal speed of motor~~
 - **Integrate display:**
   - To guide user on startup (implement LED's as well)
   - To display helpful debugging information during runtime (for now we can display % power or voltage supplied) 
     - For now we can display % power or voltage supplied to motor, ...
     - In the end we would want rate of compressions, depth of compressions (?), remaining battery life   
-- Calculate distance traveled using a ultrasonic sensor that is in the kit
+- Calculate distance traveled using a ultrasonic sensor that is in the kit (maybe not needed with flywheel)
 
 
 ## Github Repository Guide
