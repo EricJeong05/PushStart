@@ -1,7 +1,9 @@
 # PushStart 
 ## To-do
 ~~- Use a potentiometer to control the speed of the motor & figure out optimal speed of motor~~
+
 ~~-- Determine 110 compressions/min using encoder~~-
+
 ~~-- Have buttons for different modes (30/2, AED)~~-
 
 
